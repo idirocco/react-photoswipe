@@ -1,4 +1,4 @@
-# React PhotoSwipe
+# CUSTOM React PhotoSwipe
 
 PhotoSwipe, PhotoSwipeGallery component for ReactJS base on [PhotoSwipe](http://photoswipe.com/).
 
